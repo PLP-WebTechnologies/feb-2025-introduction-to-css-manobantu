@@ -1,0 +1,120 @@
+body{
+    background-color: bisque;
+}
+
+h1, h3{
+    color: brown;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+
+p{
+    color: orangered;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+
+}
+
+ul, ol{
+    color: orangered;
+    text-align: center;
+    list-style-position: inside;
+}
+
+li{
+    display: block;
+    text-align: center;
+}
+
+audio{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-radius: 20px;
+}
+
+video{
+    display: block;
+    margin:  auto;
+    width: 50%;
+    border-radius: 20px;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 30%;
+    border-radius: 20px;
+    
+}
+
+label, input{
+
+    color: brown
+}
+
+
+option{
+    color: yellowgreen;
+}
+
+#country{
+    color: orange 
+}
+
+form{
+    text-align: center;
+    
+}
+
+
+textarea{
+    color: wheat;
+
+}
+
+
+table{
+    text-align: center;
+    border-radius: 5px;
+    margin: auto;
+    width: 70%;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    color: orangered;
+}   
+
+tr{
+    background-color: wheat;
+    border-radius: 5px;
+}
+
+button{
+    border-radius: 15px;
+    background-color: brown;
+    cursor: pointer;
+    color: white;
+    font-style: oblique;
+    padding: 5px;
+
+}
+
+a{
+    color: skyblue;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: large;
+    text-align: center;
+}
+
+a:hover{
+    color: skyblue;
+    font-weight: 500;
+    text-decoration: underline;
+    
+}
+
